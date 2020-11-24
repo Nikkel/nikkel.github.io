@@ -4,7 +4,7 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  background: linear-gradient(to top left, #ffa374, #f75808);
+  background: linear-gradient(to top left, #ff5200, #ffa500);
 }
 h1 {
   font-family: sans-serif;
@@ -13,5 +13,7 @@ h1 {
   width: 100%;
   padding: 30px;
   text-align: center;
-  color: linear-gradient(to top lef, #f75808, #ffa374);
+  color: white;
+  font-weight: 300;
+  text-shadow: 2px 2px black;
 }
